@@ -17,7 +17,7 @@ As I stated in the previous section, I am self-taught in HTML and CSS but I also
 ### What Else? 
 ![What Else Image](/paint.gif)
 
-Besides all this, I am a ⭐<b>multidisciplinary artist</b>⭐. Most of it is based around crafts and visual art such as, tattoos, cross-stitching, soldering, pottery, graphic design, pixelart, jewelry and accessories creation, etc. 
+Besides all this, I am a ⭐<b>multidisciplinary artist</b>⭐. Most of it is based around crafts and visual art such as photography, fashion design and costume construction, makeup art, tattoos, cross-stitching, soldering, pottery, graphic design, pixelart, jewelry and accessories creation and so much more! 
 I am also involved in a couple of cool projects, one of them is creating my own 🐛portfolio website🐛 as well as a tumblr that will work as a sort of newsletter for my very vivid ☁️dream💤 logs.
 
 
