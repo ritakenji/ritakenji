@@ -11,8 +11,13 @@ As I stated in the previous section, I am self-taught in HTML and CSS but I also
 - 🌱 Concluded a basic Front-End Development course in Lisbon in 2013 (HTML, CSS and Javascript);
 - 📝 Learned some Back-End Development in a course that unfortunately couldn't finish;
 - 🔭 Reviewed my skills a couple of times through CodeAcademy, back when it was a free platform;
-- 🎨 Created a portfolio website for a friend back in 2016;
-- 📚 Created a business website for another friend in 2022.
+- 🎨 Created a portfolio website for a friend back in 2016 <i>(no longer active)</i>;
+- 📚 Co-created a [business website](https://www.adumatory.com) for another friend in 2022.
 
-### What Else?
-Besides all this, I am a multidisciplinary artist. Most of it is based around crafts and visual art such as cross-stitching, soldering, pottery, graphic design, pixelart, jewelry and accessories creation, etc.
+### What Else? 
+![What Else Image](/paint.gif)
+
+Besides all this, I am a ⭐<b>multidisciplinary artist</b>⭐. Most of it is based around crafts and visual art such as, tattoos, cross-stitching, soldering, pottery, graphic design, pixelart, jewelry and accessories creation, etc. 
+I am also involved in a couple of cool projects, one of them is creating my own 🐛portfolio website🐛 as well as a tumblr that will work as a sort of newsletter for my very vivid ☁️dream💤 logs.
+
+
