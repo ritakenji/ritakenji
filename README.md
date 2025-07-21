@@ -14,3 +14,5 @@ As I stated in the previous section, I am self-taught in HTML and CSS but I also
 - 🎨 Created a portfolio website for a friend back in 2016;
 - 📚 Created a business website for another friend in 2022.
 
+### What Else?
+Besides all this, I am a multidisciplinary artist. Most of it is based around crafts and visual art such as cross-stitching, soldering, pottery, graphic design, pixelart, jewelry and accessories creation, etc.
