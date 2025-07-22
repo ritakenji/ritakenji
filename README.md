@@ -1,5 +1,9 @@
+<div class="banner">
+  <img src="https://64.media.tumblr.com/362d6f20d870ed58f86a5e7fffe8ad56/327b930877d67bb1-14/s100x200/3f944090fd466dede9b2696f521e4826575f4942.gifv"> Welcome to my GitHub Profile <img src="https://64.media.tumblr.com/f953c20a7151039463b661fbbb0e2ab4/327b930877d67bb1-db/s100x200/b53905543d315dd387e87edcaec25561d03fe0c6.gifv">
+</div>
+<br></br>
 
-# Welcome to my GitHug Profile :)
+
 ![Profile Banner](/connect.gif)
 
 ## About Me
