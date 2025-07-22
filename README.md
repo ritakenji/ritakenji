@@ -10,7 +10,7 @@ My name is [Rita](https://i.pinimg.com/736x/72/63/01/7263011b01694e713603e6591c5
 As I stated in the previous section, I am self-taught in HTML and CSS but I also have:
 - 🌱 Concluded a basic Front-End Development course in Lisbon in 2013 (HTML, CSS and Javascript);
 - 📝 Learned some Back-End Development in a course that unfortunately couldn't finish;
-- 🔭 Reviewed my skills a couple of times through CodeAcademy, back when it was a free platform;
+- 🔭 Reviewed my skills a couple of times through [CodeAcademy](https://www.codecademy.com/), back when it was a free platform;
 - 🎨 Created a portfolio website for a friend back in 2016 <i>(no longer active)</i>;
 - 📚 Co-created a [business website](https://www.adumatory.com) for another friend in 2022.
 
